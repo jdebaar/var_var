@@ -1,4 +1,5 @@
 +++++++++++++++++++++++++++++++++++++++++++++
+
 Manuscript: The elephant in the room: Improved kriging posterior variance, applied to
 spatial climate data
 
@@ -9,6 +10,7 @@ Source: https://github.com/jdebaar/var_var
 Date: 18 March 2022
 
 Contact: jouke.de.baar@knmi.nl
+
 +++++++++++++++++++++++++++++++++++++++++++++
 
 1. Purpose of the code
@@ -17,7 +19,7 @@ In our manuscript, we present methods and results for kriging with non-Euclidian
 2. Running the code
 The code can simply be executed by running 'main.R' in R
 
-3 Directories
+3. Directories
 The following directories are available:
 - input_data: The data required to run the illustration
 - output_figures: The resulting figures
