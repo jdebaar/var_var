@@ -19,7 +19,7 @@ In our manuscript, we present methods and results for kriging with non-Euclidian
 
 2 Running the code
 
-The code can simply be executed by running 'main.R' in R
+The code can simply be executed by running 'main.R' in R. During the run, output will be printed to the console.
 
 3 Directories
 
